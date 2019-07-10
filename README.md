@@ -1,6 +1,10 @@
-# killSticky 
+# Reclaim screen space 
 
-![alt text](images/killSticky128.png) 
+![alt text](images/reclaim-space-128.png) 
+
+Your screen real-estate is precious, why not make the most of it? 
+
+Delete floating parts of a website that block your view. These include sticky headers (like menu bars and obnoxious ads) and full-screen modals (like popups asking you to sign up).
 
 Simple chrome extension to kill fixed and sticky headers on any page when clicked. It also adds the `style="overflow:scroll;"` property to the `<body>` tag, so that when lightboxes are killed, scrolling can resume (e.g. for login-free Pinterest browsing).
 
@@ -9,7 +13,7 @@ Installation:
 * Go to [chrome://extensions](chrome://extensions)
 * Enable Developer Mode (top right corner)
 * Load Unpacked
-* Select killSticky folder
+* Select reclaim-space folder
 
 Usage:
 * Click button to kill all fixed and sticky elements on a page
