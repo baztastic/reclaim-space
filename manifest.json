@@ -1,0 +1,33 @@
+  {
+    "name": "Reclaim Screen Space",
+    "version": "1.0",
+    "description": "Take back space in your browser from websites like Pinterest and Medium that block your screen with sticky headers and modals.",
+    "permissions": ["activeTab"],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "browser_action": {
+      "default_icon": {
+        "16": "images/reclaim-screen-16.png",
+        "32": "images/reclaim-screen-32.png",
+        "48": "images/reclaim-screen-48.png",
+        "128": "images/reclaim-screen-128.png"
+      }
+    },
+    "icons": {
+      "16": "images/reclaim-screen-16.png",
+      "32": "images/reclaim-screen-32.png",
+      "48": "images/reclaim-screen-48.png",
+      "128": "images/reclaim-screen-128.png"
+    },
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "reclaim-screen@nanobaz.com"
+    }},
+    "applications": {
+      "gecko": {
+        "id": "reclaim-screen@nanobaz.com"
+    }
+  },
+    "manifest_version": 2
+  }
