@@ -1,6 +1,6 @@
 # Reclaim screen space 
 
-![alt text](images/reclaim-space-128.png) 
+![alt text](images/reclaim-screen-128.png) 
 
 Your screen real-estate is precious, why not make the most of it? 
 
