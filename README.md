@@ -1,6 +1,6 @@
 # Reclaim screen space 
 
-![alt text](images/reclaim-screen-128.png) 
+![logo](images/reclaim-screen-128.png) 
 
 Your screen real-estate is precious, why not make the most of it? 
 
@@ -25,3 +25,6 @@ https://addons.mozilla.org/en-US/firefox/addon/reclaim-screen-space/
 
 ## Inspiration:
 Alisdair McDiarmid's [KillSticky bookmarklet](https://alisdair.mcdiarmid.org/kill-sticky-headers/).
+
+## Screenshot:
+![screenshot showing functionality on medium.com and pinterest.com](images/screenshots-01.png)
