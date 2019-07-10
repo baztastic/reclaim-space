@@ -9,7 +9,9 @@ Delete floating parts of a website that block your view. These include sticky he
 Simple chrome extension to kill fixed and sticky headers on any page when clicked. It also adds the `style="overflow:scroll;"` property to the `<body>` tag, so that when lightboxes are killed, scrolling can resume (e.g. for login-free Pinterest browsing).
 
 Firefox (mobile and desktop!):
+
 Available for free on the firefox marketplace:
+
 https://addons.mozilla.org/en-US/firefox/addon/reclaim-screen-space/
 
 Chrome:
